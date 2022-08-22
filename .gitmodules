@@ -1,10 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bradyajohnston/universe
 	shallow = true
 	branch = HEAD
 [submodule "figpatch"]
 	path = figpatch
-	url = https://github.com/bradyajohnston/figpatch
+	url = https://github.com/BradyAJohnston/figpatch
+	shallow = true
+	registered = true
+[submodule "wellr"]
+	path = wellr
+	url = https://github.com/bradyajohnston/wellr
+	shallow = true
+	registered = true
+[submodule "chromr"]
+	path = chromr
+	url = https://github.com/bradyajohnston/chromr
 	shallow = true
 	registered = true

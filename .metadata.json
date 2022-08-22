@@ -2,5 +2,11 @@
   {
     "package": "figpatch",
     "oncran": true
+  },
+  {
+    "package": "wellr"
+  },
+  {
+    "package": "chromr"
   }
 ]
