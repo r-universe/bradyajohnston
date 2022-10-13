@@ -8,6 +8,11 @@
 	url = https://github.com/BradyAJohnston/figpatch
 	shallow = true
 	registered = true
+[submodule "r3dmol"]
+	path = r3dmol
+	url = https://github.com/swsoyee/r3dmol
+	shallow = true
+	registered = true
 [submodule "wellr"]
 	path = wellr
 	url = https://github.com/bradyajohnston/wellr
