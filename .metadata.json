@@ -11,6 +11,9 @@
     "package": "wellr"
   },
   {
+    "package": "plasmapR"
+  },
+  {
     "package": "chromr"
   }
 ]
