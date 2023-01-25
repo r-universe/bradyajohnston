@@ -18,6 +18,11 @@
 	url = https://github.com/bradyajohnston/wellr
 	shallow = true
 	registered = true
+[submodule "standard"]
+	path = standard
+	url = https://github.com/bradyajohnston/standard
+	shallow = true
+	registered = true
 [submodule "plasmapR"]
 	path = plasmapR
 	url = https://github.com/bradyajohnston/plasmapR
