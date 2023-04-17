@@ -13,6 +13,11 @@
 	url = https://github.com/swsoyee/r3dmol
 	shallow = true
 	registered = true
+[submodule "crosshap"]
+	path = crosshap
+	url = https://github.com/jacobimarsh/crosshap
+	shallow = true
+	registered = true
 [submodule "wellr"]
 	path = wellr
 	url = https://github.com/bradyajohnston/wellr
