@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/bradyajohnston/bradyajohnston.r-universe.dev
 	branch = HEAD
-[submodule "figpatch"]
-	path = figpatch
-	url = https://github.com/BradyAJohnston/figpatch
-[submodule "r3dmol"]
-	path = r3dmol
-	url = https://github.com/swsoyee/r3dmol
+[submodule "chromr"]
+	path = chromr
+	url = https://github.com/bradyajohnston/chromr
 [submodule "crosshap"]
 	path = crosshap
 	url = https://github.com/jacobimarsh/crosshap
-[submodule "wellr"]
-	path = wellr
-	url = https://github.com/bradyajohnston/wellr
+[submodule "figpatch"]
+	path = figpatch
+	url = https://github.com/BradyAJohnston/figpatch
+[submodule "plasmapR"]
+	path = plasmapR
+	url = https://github.com/bradyajohnston/plasmapR
+[submodule "r3dmol"]
+	path = r3dmol
+	url = https://github.com/swsoyee/r3dmol
 [submodule "reluxr"]
 	path = reluxr
 	url = https://github.com/bradyajohnston/reluxr
 [submodule "standard"]
 	path = standard
 	url = https://github.com/bradyajohnston/standard
-[submodule "plasmapR"]
-	path = plasmapR
-	url = https://github.com/bradyajohnston/plasmapR
-[submodule "chromr"]
-	path = chromr
-	url = https://github.com/bradyajohnston/chromr
+[submodule "wellr"]
+	path = wellr
+	url = https://github.com/bradyajohnston/wellr
