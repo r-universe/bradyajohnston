@@ -23,6 +23,9 @@
 [submodule "standard"]
 	path = standard
 	url = https://github.com/bradyajohnston/standard
+[submodule "tidymst"]
+	path = tidymst
+	url = https://github.com/bradyajohnston/tidymst
 [submodule "wellr"]
 	path = wellr
 	url = https://github.com/bradyajohnston/wellr
